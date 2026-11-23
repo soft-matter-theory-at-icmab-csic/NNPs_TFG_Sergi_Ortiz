@@ -33,7 +33,7 @@ Once the models have been introduced, a computational protocol consisting of a s
 ## __State of the art and future of the field__
 A brief last section provides an end to the project explaining what implications NNPs have in areas such as medicinal chemistry, computational chemistry of biological systems, and materials science and the aspects that require still some work to further increase the applicability of these models in science. 
 
-#_BSc Thesis Report
+## __BSc Thesis Report__
 Link to the [pdf](https://saco.csic.es/s/gGaMY3p2qCpYE4N)
 
 # __Citation__
